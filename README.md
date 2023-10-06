@@ -7,3 +7,5 @@
 -version 0.3
 
 -version 0.4
+
+-version 1.0
